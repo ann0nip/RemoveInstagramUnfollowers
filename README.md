@@ -19,7 +19,7 @@ function getCookie(b){let c=`; ${document.cookie}`,a=c.split(`; ${b}=`);if(2===a
 4. Once it finishes printing the users, it will create and download a JSON file with all the users who are not following you back.
 ***The more users you have to check, more time it will take***
 
-5. I developed a [GUI tool](https://codesandbox.io/s/spring-pine-lqg8h0?file=/src/App.js) where you can upload the JSON file and select what users you want to keep.
+5. I developed a [GUI tool](https://r5j2b4.csb.app) where you can upload the JSON file and select what users you want to keep.
 
 6. Refresh the IG website. (to remove all traces of the last script)
 
