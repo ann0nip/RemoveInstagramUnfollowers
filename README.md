@@ -1,8 +1,27 @@
-## Remove Instagram Unfollowers
-# Two scripts for unfollowing Instagram users who don’t follow you back.
+# Instagram Unfollowers Remover
+
+A tool to identify and unfollow Instagram users who don't follow you back. Originally a pair of JavaScript scripts, now enhanced with a user-friendly Chrome extension for easier and safer use.
+
+## 🚀 Important Update (July 2025)
+Hey everyone!
+
+Two years ago, I created these scripts, and they've helped a lot of people clean up their Instagram follows. Based on your feedback, I spent a week building a Chrome extension to simplify the process—no more manual console tinkering!
+
+Key changes:
+
+Removed batch unfollow: Instagram detects and blocks automated bulk actions, so I had to drop this to avoid account risks.
+Added progress saving: You can now download a file to track your unfollow progress and resume later.
+Give the extension a try—it's free and straightforward. If you find it helpful, please leave a review on the Chrome Web Store!
 
 
-## **WARNING**: The scripts are calling directly to instagram API to be faster.
+https://chromewebstore.google.com/detail/bepipmjodhjmmdhlahhpalbepooemcii?utm_source=item-share-cb
+
+
+## Legacy Scripts (For Advanced Users)
+
+If you prefer the original scripts (e.g., for non-Chrome browsers), follow the steps below. Note: These call Instagram's API directly for speed, which increases the risk of detection. Use with caution—the extension is recommended for most users.
+
+## ⚠️ Warnings
 
 ### Steps:
 
